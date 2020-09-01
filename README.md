@@ -32,7 +32,7 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
 
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
 
-![title](amex19.png)
+![title](cr.png)
 
 You are provided with the following files in train.zip:
 
